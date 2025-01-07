@@ -2,9 +2,9 @@ Metadata-Version: 2.1
 Name: draqai
 Version: 0.1.5
 Summary: A powerful SDK for building AI assistants with RAG capabilities.
-Home-page: https://github.com/Syenah/opAI
-Author: Rakesh
-Author-email: rakeshsahoo689@gmail.com
+Home-page: https://github.com/draqai/AI
+Author: Draq
+Author-email: info@draq.ai
 License: UNKNOWN
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
