@@ -65,7 +65,7 @@ healthcare_research_assistant.print_response(patient_text)
 ## File Structure
 The DraqAI SDK is organized as follows:
 ```
-opData/
+aiData/
 ├── draqai/                      # Core package
 │   ├── __init__.py              # Package initialization
 │   ├── assistant.py             # Core Assistant class
